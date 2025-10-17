@@ -117,7 +117,3 @@ mmcli -m 0
 # List SMS messages
 mmcli -m 0 --messaging-list-sms
 ```
-
-## License
-
-Provided as-is for OTP/SMS service implementations.
